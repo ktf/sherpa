@@ -30,6 +30,7 @@
 
 #include<iostream>
 #include<string>
+#include <atomic>
 
 namespace siscone{
 
